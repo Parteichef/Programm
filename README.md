@@ -1,7 +1,10 @@
-# Wir sind A(rsch)FD - die Alternative (r*ichtig* s*chamlos*) für Deutschland.
+![ArschfD Logo blau und rot](ArschfD_Logo.png)
 
-Willst Du hassen?
-Willst Du kloppen?
-Willst Du treten?
 
-Dann biste bei uns richtig. Richtig am Arsch. Denn wir machen so was nich. Is nich locker.
+### Willst Du hassen?
+## Willst Du kloppen?
+# Willst Du treten?
+
+Dann biste bei uns richtig. Richtig am Arsch.
+
+Denn wir machen so was nich. Is nich locker.
